@@ -12,3 +12,6 @@ https://youtu.be/UQYsVd-rI54
 - Clone
 - Npm install in terminal
 - Run on IOS simulator or Android emulator
+
+# first clone
+this is for exe.
